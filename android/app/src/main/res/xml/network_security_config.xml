@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">https://cm.vtomhub.tech</domain>
+        <domain includeSubdomains="true">http://cm.vtomhub.tech</domain>
+        <domain includeSubdomains="true">cm.vtomhub.tech</domain>
+
+
+        <domain includeSubdomains="true">https://usapp.maxwellamparbeng.com</domain>
+        <domain includeSubdomains="true">http://usapp.maxwellamparbeng.com</domain>
+        <domain includeSubdomains="true">usapp.maxwellamparbeng.com</domain>
+
+    </domain-config>
+</network-security-config>
